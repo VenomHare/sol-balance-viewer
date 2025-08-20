@@ -1,6 +1,5 @@
 
 ## Solana Wallet Balance viewer
-<hr/>  
 <br/>
 
 Just a Project to start learning about Solana and Rust
