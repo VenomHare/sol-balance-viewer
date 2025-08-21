@@ -17,7 +17,7 @@ Just a Project to start learning about Solana and Rust
     pnpm install
 ```
 
-- Add Environment Variables
+- Add Environment Variables  
 Adjust RPC_URL accordingly
 ```bash
     cd backend
@@ -34,7 +34,7 @@ Adjust RPC_URL accordingly
 
 Frontend: 
 ```bash 
-    npm run dev 
+    pnpm dev 
 ```  
 
 Backend: 
